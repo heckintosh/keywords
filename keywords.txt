@@ -1608,3 +1608,7 @@ ssh2_auth_password
 send_keys
 send
 keys
+creds
+tokens
+leak
+local
